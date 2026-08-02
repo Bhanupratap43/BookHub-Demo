@@ -1,0 +1,6 @@
+{
+  "name": "BookHub",
+  "description": "A magical theme-park digital library for exploring, discovering, and reading thousands of adventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
